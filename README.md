@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1337_20250425160144.png
+<img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1337_20250425161246.png
 </p>
 <p align="center">
 <img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1337_20250425151700.png
@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius+Unicase&size=45&duration=500&pause=1000&color=EFBF95&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Your+love;has+got+me+going;like+you+couldn't+imagine" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1337_20250425160149.png
+<img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1337_20250425161238.png
 </p>
 <p align="center">
 credits　to　@ guildeine　for　the　pfp　frame
