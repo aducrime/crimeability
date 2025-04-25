@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**crimeability/crimeability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1337_20250425160144.png
+</p>
+<p align="center">
+<img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1337_20250425151700.png
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius+Unicase&size=45&duration=500&pause=1000&color=EFBF95&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Your+love;has+got+me+going;like+you+couldn't+imagine" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+<img src=https://file.garden/Zp4r_uAeqTJ1hrAs/Untitled1337_20250425160149.png
+</p>
+<p align="center">
+credits　to　@ guildeine　for　the　pfp　frame
+</p>
+<p align="center">
+credits　to　@ alisaacure_0　for　the　art
+</p>
+<p align="center">
+both　@ ' s　are　found　in　pin
+</p>
